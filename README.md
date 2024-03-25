@@ -33,7 +33,7 @@ public GettingStarted()
   this.Content = grid;
 }
 ```
-# How to create filter typed chip in Xamarin.Forms 
+## How to create filter typed chip in Xamarin.Forms 
 Allows users to select more than one chip in a group of chips. The selected chips are indicated by selection indicator in this type. The selection indicator can be customized using the SelectionIndicatorColorproperty. Use the SelectedItems property to get the list of selected chips.
 
 This selection changes are notified by using SelectionChanging and SelectionChanged events.
